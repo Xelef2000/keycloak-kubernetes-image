@@ -1,4 +1,4 @@
-FROM quay.io/keycloak/keycloak:22.0.0
+FROM quay.io/keycloak/keycloak:22.0.4
 
 # Enable health and metrics support
 ENV KC_HEALTH_ENABLED=true
